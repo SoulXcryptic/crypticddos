@@ -28,7 +28,7 @@ func timer(duration int) {
 	STOP = true
 }
 
-func CRYPITC(target string) {
+func CRYPTIC(target string) {
 	site, _ := url.Parse(target)
 	path := strings.Replace(site.Path, ":"+strings.Split(target, ":")[2], "", -1)
 	for {

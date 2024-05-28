@@ -1,18 +1,21 @@
-# Cryptic DDoS
+#SQLNUKE TELEGRAM BOT [SQLiInjection BOT]
 
-Cryptic DDoS is a simple DDoS (Distributed Denial of Service) tool developed for educational purposes.
+SQLNUKE More advanced & automated sqli scanner & dork parser to get best result from telegram bot. Find sqli from dork , get result from scan & start dump from bot.
+Unique way for integrating SQLMAP & telegram, to get better result anytime, anyplace & any device.
 
-## Introduction
+NOTE : This project is made for educational and ethical testing purposes only. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
-Cryptic DDoS is designed to demonstrate the concept of DDoS attacks and their impact on web services. It should only be used in controlled environments and with proper authorization. This tool is not intended for malicious use.
+#Features
 
-## Features
+SQL scanner with customized dork updated daily controlled by Telegram bot
+Support TOR functionality
+Download & upload your own dorks for scanning
+Scan single URL & file of URL without any arguments
+Get your own telegram Bot control with API access & token
 
-- Simple and straightforward DDoS tool
-- Written in Python and Node.js
-- Educational purpose only
 
-## Installation
+#Author
 
-1. Clone the repository:
-2. 
+Name : Abhishek Kumar [netwrkspider]
+Email :- netwrkspider@protonmail.ch
+Web : http://www.netwrkspider.org
